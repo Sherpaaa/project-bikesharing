@@ -1,5 +1,5 @@
 # Predicting Bike-Sharing Patterns
-
+The project predicts daily bike rental ridership.
 ## Instructions:
 
 - Create Conda environment
