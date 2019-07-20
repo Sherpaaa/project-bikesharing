@@ -19,8 +19,8 @@ conda install numpy matplotlib pandas jupyter notebook
 
 - Open the jupyter notebook
 
-- The data comes from: [here](UCI Machine Learning Database)
+- The data comes from: `UCI Machine Learning Database`
 
 [//]: # (Image References)
 
-[image1]: ./assets/neural_network.png "The Network"
+[image]: ./assets/neural_network.png "The Network"
