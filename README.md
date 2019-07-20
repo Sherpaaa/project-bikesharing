@@ -3,8 +3,11 @@ The project predicts daily bike rental ridership.
 ## Instructions:
 
 - Create Conda environment
-`conda create --name deep-learning python=3`
-`conda install numpy matplotlib pandas jupyter notebook`
+
+```
+conda create --name deep-learning python=3
+conda install numpy matplotlib pandas jupyter notebook
+```
 
 - Activate your environment
 `source activate deep-learning`
@@ -16,4 +19,8 @@ The project predicts daily bike rental ridership.
 
 - Open the jupyter notebook
 
-- The data comes from: UCI Machine Learning Database
+- The data comes from: [here](UCI Machine Learning Database)
+
+[//]: # (Image References)
+
+[image1]: ./assets/neural_network.png "The Network"
